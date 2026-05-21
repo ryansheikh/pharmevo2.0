@@ -1,0 +1,4 @@
+All CSVs refreshed: 2026-04-26 20:43
+  sales_clean.csv      : 377,747 rows
+  activities_clean.csv : 50,119 rows
+  travel_clean.csv     : 7,675 rows
